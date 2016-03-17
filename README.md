@@ -1,4 +1,4 @@
-# Angular 2 Beta Boilerplate
+# Angular 2 Beta - 2-way data binding example
 
 ## Description
 This is a demonstration of Angular 2 way binding using the Beta version.
